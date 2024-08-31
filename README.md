@@ -12,14 +12,14 @@
 <br>
 <h1>Essa é a tela no Computador:</h1>
 <br>
-<img src=https://github.com/ErianVT/PTI-WebStands/blob/master/img/Pc.png?raw=true align="center" />
+<img src=https://github.com/ErianVT/PTI-WebStands/blob/master/img/Pc.png />
 <br>
-<img src=https://github.com/ErianVT/PTI-WebStands/blob/master/img/Pc2.png?raw=true />
+<img src=https://github.com/ErianVT/PTI-WebStands/blob/master/img/Pc2.png />
 <br>
 <h1>Essa é a tela do Celular:</h1>
 <div align="center">
-<img src=https://github.com/ErianVT/PTI-WebStands/blob/master/img/Mobile.png?raw=true/>
+<img src=https://github.com/ErianVT/PTI-WebStands/blob/master/img/Mobile.png/>
 <br>
-<img src=https://github.com/ErianVT/PTI-WebStands/blob/master/img/Mobile2.png?raw=true/>
+<img src=https://github.com/ErianVT/PTI-WebStands/blob/master/img/Mobile2.png/>
 </div>
 
