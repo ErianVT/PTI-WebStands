@@ -1,0 +1,45 @@
+@media screen and (max-width: 760px){
+
+  header{
+    flex-direction: column;
+  }
+
+  main{
+    flex-direction: column;
+  }
+
+  h1{
+    text-align: center;
+  }
+
+  h2{
+    font-size: 30px;
+  }
+
+  h3{
+    font-size: 30px;
+  }
+
+  form{
+    margin: 0 auto;
+    width: 100%;
+  }
+
+  input{
+    align-self: center;
+  }
+
+  img{
+    display: none;
+}
+
+  .ul_header{
+        padding: 0;
+        text-align: center;
+    }
+
+  .p_objetivo{
+    width: auto;
+  }
+
+}
