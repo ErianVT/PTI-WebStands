@@ -8,3 +8,8 @@
 <br>
 <br>
 <h2>As linhagens que eu ultilizei foram HTML e CSS</h2>
+<br>
+<img src=https://github.com/ErianVT/PTI-WebStands/blob/master/img/Pc.png?raw=true />
+<img src=https://github.com/ErianVT/PTI-WebStands/blob/master/img/Pc2.png?raw=true />
+<img src=https://github.com/ErianVT/PTI-WebStands/blob/master/img/Mobile.png?raw=true />
+<img src=https://github.com/ErianVT/PTI-WebStands/blob/master/img/Mobile2.png?raw=true/>
